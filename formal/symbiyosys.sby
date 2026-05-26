@@ -1,0 +1,17 @@
+[options]
+mode prove
+
+[engines]
+smtbmc
+
+[script]
+
+read -formal rtl/arbiter.sv
+read -formal formal/formal_properties.sv
+
+prep -top arbiter
+
+[files]
+
+rtl/arbiter.sv
+formal/formal_properties.sv
