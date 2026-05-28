@@ -1,4 +1,4 @@
-# AXI-Lite Arbitration Formal Verification Project
+# Assertion-Based Verification of Round-Robin Arbiter RTL
 
 ## Overview
 
