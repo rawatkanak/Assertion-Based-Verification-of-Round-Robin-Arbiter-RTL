@@ -271,17 +271,6 @@ Verification Closure
 
 ---
 
-# Future Improvements
-
-- Full AXI-Lite protocol support
-- Formal verification using SymbiYosys
-- UVM-lite verification environment
-- Functional coverage bins
-- CI/CD GitHub integration
-- Multi-master arbitration support
-
----
-
 # Final Status
 
 ✔ RTL Verified  
