@@ -281,3 +281,5 @@ Verification Closure
 ✔ Waveforms Verified  
 ✔ Debugging Completed  
 ✔ Verification Closure Achieved
+
+Author: Kanak Rawat
